@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "icon":"assets/images/peace.png",
+        "title":"Meditation",
+        "text":"Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident."
+    },
+    {
+        "id":2,
+        "icon":"assets/images/team.png",
+        "title":"Community",
+        "text":"Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident."
+    },
+    {
+        "id":3,
+        "icon":"assets/images/open-book.png",
+        "title":"Philosophy",
+        "text":"Uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident."
+    }
+]

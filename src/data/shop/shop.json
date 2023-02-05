@@ -1,0 +1,518 @@
+[
+    {
+        "id": 1,
+        "title": "Kamandalam",
+        "image": [
+            "assets/images/shop/1.png",
+            "assets/images/shop/2.png",
+            "assets/images/shop/3.png",
+            "assets/images/shop/4.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 45,
+        "rating": 5,
+        "stock": true,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Panchjanye Shankh",
+        "image": [
+            "assets/images/shop/2.png",
+            "assets/images/shop/3.png",
+            "assets/images/shop/4.png",
+            "assets/images/shop/5.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 35,
+        "rating": 4,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Basic Shankh",
+        "image": [
+            "assets/images/shop/3.png",
+            "assets/images/shop/4.png",
+            "assets/images/shop/5.png",
+            "assets/images/shop/6.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 34,
+        "rating": 4,
+        "stock": false,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Rudraksha",
+        "image": [
+            "assets/images/shop/4.png",
+            "assets/images/shop/5.png",
+            "assets/images/shop/6.png",
+            "assets/images/shop/7.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 86,
+        "rating": 3,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pooja Thali",
+        "image": [
+            "assets/images/shop/5.png",
+            "assets/images/shop/6.png",
+            "assets/images/shop/7.png",
+            "assets/images/shop/8.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 36,
+        "rating": 5,
+        "stock": true,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Kuber Yantram",
+        "image": [
+            "assets/images/shop/6.png",
+            "assets/images/shop/7.png",
+            "assets/images/shop/8.png",
+            "assets/images/shop/9.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 68,
+        "rating": 4,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Natraj Statue",
+        "image": [
+            "assets/images/shop/7.png",
+            "assets/images/shop/8.png",
+            "assets/images/shop/9.png",
+            "assets/images/shop/10.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 97,
+        "rating": 4,
+        "stock": false,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Shiva Statue",
+        "image": [
+            "assets/images/shop/8.png",
+            "assets/images/shop/9.png",
+            "assets/images/shop/10.png",
+            "assets/images/shop/11.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 79,
+        "rating": 3,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Om Pendent",
+        "image": [
+            "assets/images/shop/9.png",
+            "assets/images/shop/10.png",
+            "assets/images/shop/11.png",
+            "assets/images/shop/12.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 89,
+        "rating": 5,
+        "stock": true,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Kalash",
+        "image": [
+            "assets/images/shop/10.png",
+            "assets/images/shop/11.png",
+            "assets/images/shop/12.png",
+            "assets/images/shop/1.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 99,
+        "rating": 4,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Basic Yantram",
+        "image": [
+            "assets/images/shop/11.png",
+            "assets/images/shop/12.png",
+            "assets/images/shop/1.png",
+            "assets/images/shop/2.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 65,
+        "rating": 4,
+        "stock": false,
+        "category": [
+            1,
+            2,
+            3
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Stone",
+        "image": [
+            "assets/images/shop/12.png",
+            "assets/images/shop/1.png",
+            "assets/images/shop/2.png",
+            "assets/images/shop/3.png"
+        ],
+        "shorttext": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered altera putintion in some form, by injected humour, or randomised words which don't look even slightly you need to be sure there isn't anything embarrassing hidden in the middle of text.",
+        "price": 59,
+        "rating": 3,
+        "stock": true,
+        "category": [
+            4,
+            5,
+            6
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "htmltext": "<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was  popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p> <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures</p>",
+        "reviews": [
+            {
+                "user": [
+                    1
+                ],
+                "rating":4,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            },
+            {
+                "user": [
+                    2
+                ],
+                "rating":3,
+                "commentdate": "10 June, 2021",
+                "comment": "That far ground rat pure from newt far panther crane lorikeet overlay alas cobra across much gosh less goldfinch ruthlessly alas examined and that more and the ouch jeez."
+            }
+        ]
+    }
+]

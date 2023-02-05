@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "name":"Gopal dhanam",
+        "image":"assets/images/About-us/Preachers-01.png",
+        "post":"Lead Preacher",
+        "htmltext":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-pinterest-p",
+                "url":"/"
+            }
+        ]
+    },
+    {
+        "id":2,
+        "name":"Jagdish prasad",
+        "image":"assets/images/About-us/Preachers-02.png",
+        "post":"Lead Preacher",
+        "htmltext":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-pinterest-p",
+                "url":"/"
+            }
+        ]
+    },
+    {
+        "id":3,
+        "name":"Ram Prasad",
+        "image":"assets/images/About-us/Preachers-03.png",
+        "post":"Lead Preacher",
+        "htmltext":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-pinterest-p",
+                "url":"/"
+            }
+        ]
+    },
+    {
+        "id":4,
+        "name":"Radhe Krishna",
+        "image":"assets/images/About-us/Preachers-04.png",
+        "post":"Lead Preacher",
+        "htmltext":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p><p>It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently.</p>",
+        "social":[
+            {
+                "icon":"fab fa-facebook-f",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-twitter",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-linkedin-in",
+                "url":"/"
+            },
+            {
+                "icon":"fab fa-pinterest-p",
+                "url":"/"
+            }
+        ]
+    }
+]

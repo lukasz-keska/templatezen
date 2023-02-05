@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "bgimage":"assets/images/home-banner/banner-01.png",
+        "title":"creator of life",
+        "text":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here."
+    },
+    {
+        "id":2,
+        "bgimage":"assets/images/home-banner/banner-03.png",
+        "title":"god is within us",
+        "text":"The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here."
+    }
+]

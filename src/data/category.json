@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Festivals"
+    },
+    {
+        "id":2,
+        "title":"Religion"
+    },
+    {
+        "id":3,
+        "title":"Mythology"
+    },
+    {
+        "id":4,
+        "title":"Mahabharat"
+    },
+    {
+        "id":5,
+        "title":"Avatars"
+    },
+    {
+        "id":6,
+        "title":"Pooja"
+    }
+]
